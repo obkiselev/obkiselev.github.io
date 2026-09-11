@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>DoseShift — напоминания о приёме лекарств</title>
+  <meta name="description" content="DoseShift — простое приложение для напоминаний о приёме лекарств через заданный интервал.">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="DoseShift">
+  <meta property="og:url" content="https://obkiselev.github.io/">
+  <meta property="og:title" content="DoseShift — напоминания о приёме лекарств">
+  <meta property="og:description" content="Простые напоминания о приёме лекарств через заданный интервал.">
+  <meta property="og:image" content="https://obkiselev.github.io/og-preview.png">
+  <meta property="og:image:type" content="image/png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="DoseShift — напоминания о приёме лекарств">
+  <meta name="twitter:description" content="Простые напоминания о приёме лекарств через заданный интервал.">
+  <meta name="twitter:image" content="https://obkiselev.github.io/og-preview.png">
+  <style>
+    :root { --ink:#152018; --muted:#5f6d62; --paper:#f8f7f1; --card:#fff; --green:#126b46; --green-dark:#0b4d32; --line:#dce4dc; }
+    * { box-sizing:border-box; } body { margin:0; min-width:320px; color:var(--ink); background:radial-gradient(circle at 85% 0,#dff1e1 0,transparent 32rem),var(--paper); font:16px/1.55 Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif; }
+    main { width:min(100% - 2rem,1040px); margin:0 auto; padding:2.5rem 0 4rem; } .hero { display:grid; grid-template-columns:1.05fr .95fr; gap:clamp(2rem,6vw,5rem); align-items:center; min-height:540px; }
+    .eyebrow { margin:0 0 1rem; color:var(--green); font-size:.88rem; font-weight:750; letter-spacing:.1em; text-transform:uppercase; } h1 { max-width:680px; margin:0; font-size:clamp(2.55rem,6vw,5rem); letter-spacing:-.055em; line-height:.96; }
+    .lead { max-width:580px; margin:1.6rem 0; color:var(--muted); font-size:clamp(1.1rem,2vw,1.3rem); } .button { display:inline-flex; align-items:center; justify-content:center; min-height:3.35rem; padding:.75rem 1.2rem; border-radius:.7rem; color:#fff; background:var(--green); box-shadow:0 10px 28px #126b4633; font-weight:750; text-decoration:none; }
+    .button:hover,.button:focus-visible { background:var(--green-dark); } .note { margin:.75rem 0 0; color:var(--muted); font-size:.92rem; } .preview { overflow:hidden; border:1px solid var(--line); border-radius:1.25rem; background:var(--card); box-shadow:0 22px 56px #1d33221c; } .preview img { display:block; width:100%; height:auto; }
+    .features { display:grid; grid-template-columns:repeat(3,1fr); gap:1rem; margin-top:2rem; } .feature { padding:1.25rem; border:1px solid var(--line); border-radius:1rem; background:#ffffffaa; } .feature h2 { margin:0 0 .4rem; font-size:1rem; } .feature p { margin:0; color:var(--muted); font-size:.95rem; } footer { margin-top:3rem; color:var(--muted); font-size:.9rem; }
+    @media (max-width:760px) { main { width:min(100% - 1.5rem,600px); padding-top:1.5rem; } .hero { grid-template-columns:1fr; min-height:auto; } .preview { order:-1; } .features { grid-template-columns:1fr; } }
+  </style>
+</head>
+<body>
+  <main>
+    <section class="hero" aria-labelledby="title">
+      <div>
+        <p class="eyebrow">DoseShift: Pill Reminder App</p>
+        <h1 id="title">Напоминания, которые подстраиваются под день.</h1>
+        <p class="lead">Отметьте приём лекарства — DoseShift рассчитает следующее напоминание через нужный интервал. Всё хранится только на вашем телефоне.</p>
+        <a class="button" href="https://d5dehckvgir5l2bnaghl.fovt0b64.apigw.yandexcloud.net/download?kind=download">Скачать для Android</a>
+        <p class="note">APK начнёт скачиваться сразу. Установка доступна только на Android.</p>
+      </div>
+      <div class="preview"><img src="og-preview.png" width="1200" height="630" alt="DoseShift — приложение для напоминаний о приёме лекарств"></div>
+    </section>
+    <section class="features" aria-label="Возможности приложения">
+      <article class="feature"><h2>Точный интервал</h2><p>Следующее напоминание отсчитывается от фактического времени приёма.</p></article>
+      <article class="feature"><h2>Без учётной записи</h2><p>Данные о лекарствах и отметках остаются на устройстве.</p></article>
+      <article class="feature"><h2>Без лишнего</h2><p>Один понятный экран для настройки и ежедневной отметки.</p></article>
+    </section>
+    <footer>DoseShift: Pill Reminder App</footer>
+  </main>
+</body>
+</html>
