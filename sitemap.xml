@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://obkiselev.github.io/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://obkiselev.github.io/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://obkiselev.github.io/en/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://obkiselev.github.io/" />
+  </url>
+  <url>
+    <loc>https://obkiselev.github.io/en/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://obkiselev.github.io/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://obkiselev.github.io/en/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://obkiselev.github.io/" />
+  </url>
+  <url>
+    <loc>https://obkiselev.github.io/privacy/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://obkiselev.github.io/privacy/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://obkiselev.github.io/en/privacy/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://obkiselev.github.io/privacy/" />
+  </url>
+  <url>
+    <loc>https://obkiselev.github.io/en/privacy/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://obkiselev.github.io/privacy/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://obkiselev.github.io/en/privacy/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://obkiselev.github.io/privacy/" />
+  </url>
+  <url>
+    <loc>https://obkiselev.github.io/guides/every-n-hours-after-taken/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://obkiselev.github.io/guides/every-n-hours-after-taken/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://obkiselev.github.io/en/guides/every-n-hours-after-taken/" />
+  </url>
+  <url>
+    <loc>https://obkiselev.github.io/en/guides/every-n-hours-after-taken/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://obkiselev.github.io/guides/every-n-hours-after-taken/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://obkiselev.github.io/en/guides/every-n-hours-after-taken/" />
+  </url>
+  <url>
+    <loc>https://obkiselev.github.io/guides/android-reminder-permissions/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://obkiselev.github.io/guides/android-reminder-permissions/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://obkiselev.github.io/en/guides/android-reminder-permissions/" />
+  </url>
+  <url>
+    <loc>https://obkiselev.github.io/en/guides/android-reminder-permissions/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://obkiselev.github.io/guides/android-reminder-permissions/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://obkiselev.github.io/en/guides/android-reminder-permissions/" />
+  </url>
+</urlset>

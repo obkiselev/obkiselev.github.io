@@ -1,0 +1,9 @@
+# Public product pages: allow search engines and answer engines to discover them.
+User-agent: *
+Allow: /
+
+# Explicitly allow ChatGPT Search discovery. This does not replace the general rule above.
+User-agent: OAI-SearchBot
+Allow: /
+
+Sitemap: https://obkiselev.github.io/sitemap.xml
