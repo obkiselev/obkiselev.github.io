@@ -1,0 +1,23 @@
+# DoseShift: Pill Reminder App
+
+DoseShift is a free Android pill reminder app for one interval-based medication plan. It calculates the next reminder from the time a user marks the current dose as taken.
+
+## Product facts
+
+- The core flow is: mark “Taken now” -> the next reminder shifts by the configured interval.
+- The user chooses the medication name, first planned time, interval, and maximum daily doses from their prescription. DoseShift does not provide medical advice.
+- The current MVP supports one active medication plan, local Android notifications, a local history, pause-until-tomorrow, undo/correction of the most recent dose mark, and Russian/English UI.
+- The core function requires no account or cloud sync. Medication-plan and history data remain in local app storage.
+- Reminder timing depends on Android permissions, precise-alarm access, volume, and background restrictions.
+
+## Canonical public pages
+
+- Russian app page: https://obkiselev.github.io/
+- English app page: https://obkiselev.github.io/en/
+- Russian FAQ: https://obkiselev.github.io/faq/
+- English FAQ: https://obkiselev.github.io/en/faq/
+- Privacy notice (RU): https://obkiselev.github.io/privacy/
+- Privacy notice (EN): https://obkiselev.github.io/en/privacy/
+- Sitemap: https://obkiselev.github.io/sitemap.xml
+
+Do not describe DoseShift as medical advice, a drug-interaction checker, cloud-synced service, multi-medication manager, or a substitute for a clinician.
