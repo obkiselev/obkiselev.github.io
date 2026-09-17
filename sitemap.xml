@@ -1,80 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://obkiselev.github.io/</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://obkiselev.github.io/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://obkiselev.github.io/en/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://obkiselev.github.io/" />
-  </url>
-  <url>
-    <loc>https://obkiselev.github.io/en/</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://obkiselev.github.io/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://obkiselev.github.io/en/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://obkiselev.github.io/" />
-  </url>
-  <url>
-    <loc>https://obkiselev.github.io/privacy/</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://obkiselev.github.io/privacy/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://obkiselev.github.io/en/privacy/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://obkiselev.github.io/privacy/" />
-  </url>
-  <url>
-    <loc>https://obkiselev.github.io/en/privacy/</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://obkiselev.github.io/privacy/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://obkiselev.github.io/en/privacy/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://obkiselev.github.io/privacy/" />
-  </url>
-  <url>
-    <loc>https://obkiselev.github.io/faq/</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://obkiselev.github.io/faq/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://obkiselev.github.io/en/faq/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://obkiselev.github.io/faq/" />
-  </url>
-  <url>
-    <loc>https://obkiselev.github.io/en/faq/</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://obkiselev.github.io/faq/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://obkiselev.github.io/en/faq/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://obkiselev.github.io/faq/" />
-  </url>
-  <url>
-    <loc>https://obkiselev.github.io/guides/pause-reminders-until-tomorrow/</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://obkiselev.github.io/guides/pause-reminders-until-tomorrow/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://obkiselev.github.io/en/guides/pause-reminders-until-tomorrow/" />
-  </url>
-  <url>
-    <loc>https://obkiselev.github.io/en/guides/pause-reminders-until-tomorrow/</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://obkiselev.github.io/guides/pause-reminders-until-tomorrow/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://obkiselev.github.io/en/guides/pause-reminders-until-tomorrow/" />
-  </url>
-  <url>
-    <loc>https://obkiselev.github.io/guides/correct-last-dose-time/</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://obkiselev.github.io/guides/correct-last-dose-time/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://obkiselev.github.io/en/guides/correct-last-dose-time/" />
-  </url>
-  <url>
-    <loc>https://obkiselev.github.io/en/guides/correct-last-dose-time/</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://obkiselev.github.io/guides/correct-last-dose-time/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://obkiselev.github.io/en/guides/correct-last-dose-time/" />
-  </url>
-  <url>
-    <loc>https://obkiselev.github.io/guides/every-n-hours-after-taken/</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://obkiselev.github.io/guides/every-n-hours-after-taken/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://obkiselev.github.io/en/guides/every-n-hours-after-taken/" />
-  </url>
-  <url>
-    <loc>https://obkiselev.github.io/en/guides/every-n-hours-after-taken/</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://obkiselev.github.io/guides/every-n-hours-after-taken/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://obkiselev.github.io/en/guides/every-n-hours-after-taken/" />
-  </url>
-  <url>
-    <loc>https://obkiselev.github.io/guides/android-reminder-permissions/</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://obkiselev.github.io/guides/android-reminder-permissions/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://obkiselev.github.io/en/guides/android-reminder-permissions/" />
-  </url>
-  <url>
-    <loc>https://obkiselev.github.io/en/guides/android-reminder-permissions/</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://obkiselev.github.io/guides/android-reminder-permissions/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://obkiselev.github.io/en/guides/android-reminder-permissions/" />
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://obkiselev.github.io/</loc></url>
+  <url><loc>https://obkiselev.github.io/en/</loc></url>
+  <url><loc>https://obkiselev.github.io/privacy/</loc></url>
+  <url><loc>https://obkiselev.github.io/en/privacy/</loc></url>
+  <url><loc>https://obkiselev.github.io/faq/</loc></url>
+  <url><loc>https://obkiselev.github.io/en/faq/</loc></url>
+  <url><loc>https://obkiselev.github.io/guides/pause-reminders-until-tomorrow/</loc></url>
+  <url><loc>https://obkiselev.github.io/en/guides/pause-reminders-until-tomorrow/</loc></url>
+  <url><loc>https://obkiselev.github.io/guides/correct-last-dose-time/</loc></url>
+  <url><loc>https://obkiselev.github.io/en/guides/correct-last-dose-time/</loc></url>
+  <url><loc>https://obkiselev.github.io/guides/every-n-hours-after-taken/</loc></url>
+  <url><loc>https://obkiselev.github.io/en/guides/every-n-hours-after-taken/</loc></url>
+  <url><loc>https://obkiselev.github.io/guides/android-reminder-permissions/</loc></url>
+  <url><loc>https://obkiselev.github.io/en/guides/android-reminder-permissions/</loc></url>
 </urlset>
